@@ -8,16 +8,33 @@ I'm Jillian, aka artificialjava :coffee: :sunrise_over_mountains:
 - :mortar_board: a CS student in university, and am passionate about OOP and AI
 - :globe_with_meridians: an advocate for creating safe and inviting environments for everyone in STEM
 
-
 #### Connect With Me:
-[<img align="left" alt="https://www.instagram.com/jilliana_anderson/" width="40px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true" />]
+Instagram
+[![Instagram][1.2]][1]
 
-[<img align="left" alt="https://www.linkedin.com/in/jillianaanderson/" width="40px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-linkedin-3-240.png?raw=true" />]
+LinkedIn
+[![LinkedIn][2.2]][2].
 
-[<img align="left" alt="https://www.youtube.com/channel/UCDDz9oojRgKkLCNdOJBAeKw/featured" width="40px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-youtube-3-240.png?raw=true" />]
+YouTube
+[![YouTube][3.2]][3].
 
-[<img align="left" alt="https://www.facebook.com/jillianaand/" width="40px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-facebook-3-240%20(1).png?raw=true" />]
+Facebook
+[![Facebook][4.2]][4].
 
+
+[1.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true
+
+[2.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-linkedin-3-240.png?raw=true
+
+[3.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-youtube-3-240.png?raw=true
+
+[4.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-facebook-3-240%20(1).png?raw=true
+
+
+[1]: https://www.instagram.com/jilliana_anderson/
+[2]: https://www.linkedin.com/in/jillianaanderson/
+[3]: https://www.youtube.com/channel/UCDDz9oojRgKkLCNdOJBAeKw/featured
+[4]: https://www.facebook.com/jillianaand/
 
 ### :house_with_garden: Current Status:
 - :hourglass_flowing_sand: Current Project Status: 
