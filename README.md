@@ -9,32 +9,13 @@ I'm Jillian, aka artificialjava :coffee: :sunrise_over_mountains:
 - :globe_with_meridians: an advocate for creating safe and inviting environments for everyone in STEM
 
 #### Connect With Me:
-Instagram
-[![Instagram][1.2]][1]
+[<img align="left" alt="Instagram" width="36px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true" />][https://www.instagram.com/jilliana_anderson/]
 
-LinkedIn
-[![LinkedIn][2.2]][2].
+[<img align="left" alt="LinkedIn" width="36px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-linkedin-3-240.png?raw=true" />][https://www.linkedin.com/in/jillianaanderson/]
 
-YouTube
-[![YouTube][3.2]][3].
+[<img align="left" alt="Youtube" width="36px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-youtube-3-240.png?raw=true" />][https://www.youtube.com/channel/UCDDz9oojRgKkLCNdOJBAeKw/featured]
 
-Facebook
-[![Facebook][4.2]][4].
-
-
-[1.2]: <img src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true" width="20">  
-
-[2.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-linkedin-3-240.png?raw=true
-
-[3.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-youtube-3-240.png?raw=true
-
-[4.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-facebook-3-240%20(1).png?raw=true
-
-
-[1]: https://www.instagram.com/jilliana_anderson/
-[2]: https://www.linkedin.com/in/jillianaanderson/
-[3]: https://www.youtube.com/channel/UCDDz9oojRgKkLCNdOJBAeKw/featured
-[4]: https://www.facebook.com/jillianaand/
+[<img align="left" alt="Facebook" width="36px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-facebook-3-240%20(1).png?raw=true" />][https://www.facebook.com/jillianaand/]
 
 ### :house_with_garden: Current Status:
 - :hourglass_flowing_sand: Current Project Status: 
