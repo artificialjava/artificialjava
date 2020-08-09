@@ -22,7 +22,7 @@ Facebook
 [![Facebook][4.2]][4].
 
 
-[1.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true
+[1.2]: <img src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-instagram-13-240.png?raw=true" width="20">  
 
 [2.2]: https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-linkedin-3-240.png?raw=true
 
