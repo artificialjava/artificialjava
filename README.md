@@ -17,8 +17,7 @@ I'm Jillian, aka artificialjava :coffee: :sunrise_over_mountains:
 
 [<img align="left" alt="Facebook" width="36px" src="https://github.com/artificialjava/artificialjava/blob/master/iconmonstr-facebook-3-240%20(1).png?raw=true" />](https://www.facebook.com/jillianaand/)
 
-
-### :house_with_garden: Current Status:
+  ### :house_with_garden: Current Status:
 - :hourglass_flowing_sand: Current Project Status: 
    - Aggregation Lession
      - [x] Code Example Creation
