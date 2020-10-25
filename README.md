@@ -4,7 +4,6 @@
 I'm Jillian, aka artificialjava :coffee: :sunrise_over_mountains:
 
 #### :cherry_blossom: Who Am I?
-- :memo: the founder of the YouTube channel Explain Like A Student (ELAS). 
 - :mortar_board: a CS student in university, and am passionate about OOP and AI
 - :globe_with_meridians: an advocate for creating safe and inviting environments for everyone in STEM
 
@@ -20,15 +19,13 @@ I'm Jillian, aka artificialjava :coffee: :sunrise_over_mountains:
 
 ### :house_with_garden: Current Status:
 - :hourglass_flowing_sand: Current Project Status: 
-   - Aggregation Lession
-     - [x] Code Example Creation
-     - [x] Code Example Testing/Debugging
-     - [ ] Lesson Drafted
-     - [ ] Video Filmed
-     - [ ] Video Edited, Ready to Upload
+   - Fall Semester Classes
+     - [x] Midterm Week 1
+     - [x] Midterm Week 2
+     - [ ] Final Exams
    - Fall College Classes
    - Instagram Questions = open!
-- :computer: Current Focus: YouTube lessons for commonly taught programming topics to help other students, DS & Algorithims
+- :computer: Current Focus: DS & Algorithms, Ethical Engineering Research
 - :speech_balloon: Reach Out to Me For: Topic requests, field discussions, and general collaboartion!
 - :earth_americas: Work Location: Working from home, in my new home office ~10 feet from my bed until further notice
 - :dog: Passing the Time By: Hiking with my dog, Reading every book I have at home, watching all the shows I've been putting off
